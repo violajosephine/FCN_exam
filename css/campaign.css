@@ -1,0 +1,51 @@
+/* ----------------GENERAL---------------- */
+
+/* ------------- HERO ------------------ */
+
+.hero h1 {
+  text-align: center;
+  padding-top: 200px;
+  font-size: 5rem;
+}
+.hero {
+  background-image: url(../assets/images/20220307-5R2A3209\ copy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 750px;
+  background-position: top;
+}
+
+/* ---------------------INTRO--------------------- */
+
+.intro {
+  max-width: 700px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+/* ----------------IMAGETEXT---------------- */
+.imagetext {
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.imagetext img {
+  max-width: 50%;
+  margin-right: 30px;
+}
+
+/* ------------------ESSIEN------------------ */
+
+.essien {
+  background-image: url(../assets/images/essien_hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  background-position: center;
+}
