@@ -30,7 +30,7 @@
 
 /* --------------BREAKER IMAGE-------------- */
 .breakerimage {
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-image: url(../assets/images/breakerimage.jpg);
   background-position: top;

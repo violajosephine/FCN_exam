@@ -222,8 +222,8 @@ header {
   padding-top: 30px;
 }
 
-#footer h4 {
-  text-align: center;
+#footer h3 {
+  font-weight: 500;
 }
 
 #map {
