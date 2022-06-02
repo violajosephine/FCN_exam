@@ -10,6 +10,8 @@ h1 {
   margin: auto;
   margin-top: 170px;
   color: var(--color4);
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .content {
@@ -79,4 +81,15 @@ video {
 .ads {
   display: flex;
   flex-direction: column;
+}
+
+/* --------------MEDIA QUERIES-------------- */
+
+@media screen and (max-width: 725px) {
+  main h1 {
+    font-size: 3rem !important;
+    line-height: 2.5rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 }

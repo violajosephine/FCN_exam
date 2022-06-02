@@ -164,9 +164,7 @@
   div {
     flex-wrap: wrap;
   }
-  .breakerimage {
-    background-position: left;
-  }
+
   .seasonfordele ul {
     flex-wrap: wrap;
     justify-content: center;
@@ -199,6 +197,10 @@
     padding-left: 30px;
     padding-right: 30px;
     margin-bottom: 50px;
+  }
+
+  .breakerimage {
+    display: none;
   }
 }
 
